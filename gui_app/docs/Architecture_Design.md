@@ -85,7 +85,7 @@
 > 完整项目结构请参考：[项目结构文档](Project_Structure.md)
 
 ```
-ls_dyna_md/                        # 项目根目录
+ls-dyna-doc-gen/                    # 项目根目录
 │
 ├── 📁 CLI 程序（命令行工具，现有程序）
 │   ├── cli_app/

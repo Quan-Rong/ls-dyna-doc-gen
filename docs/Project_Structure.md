@@ -38,7 +38,7 @@
 ### 2.1 完整项目结构
 
 ```
-ls_dyna_md/                           # 项目根目录
+ls-dyna-doc-gen/                      # 项目根目录
 │
 ├── 📁 CLI 程序（命令行工具）
 │   ├── cli_app/
@@ -129,7 +129,7 @@ ls_dyna_md/                           # 项目根目录
 
 **目录结构**：
 ```
-ls_dyna_md/
+ls-dyna-doc-gen/
 ├── cli_app/                   # ← CLI 程序目录
 │   ├── main.py                # ← CLI 入口
 │   ├── cli_main.py            # ← CLI 业务逻辑
@@ -147,7 +147,7 @@ ls_dyna_md/
 
 **目录结构**：
 ```
-ls_dyna_md/
+ls-dyna-doc-gen/
 ├── gui_app/                   # ← GUI 程序目录
 │   ├── main_gui.py            # ← GUI 入口
 │   ├── gui/                   # ← GUI 界面模块

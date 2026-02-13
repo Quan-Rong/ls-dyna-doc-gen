@@ -16,7 +16,7 @@
 ## 📁 目录结构（简化版）
 
 ```
-ls_dyna_md/                    # 项目根目录
+ls-dyna-doc-gen/               # 项目根目录
 │
 ├── cli_app/                   # ← CLI 程序目录
 │   ├── main.py                # ← CLI 程序入口

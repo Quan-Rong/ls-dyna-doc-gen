@@ -83,7 +83,7 @@ python cli_app/main.py --force            # 强制重新生成所有文件
 ### 2.2 程序目录结构
 
 ```
-ls_dyna_md/                        # 项目根目录
+ls-dyna-doc-gen/                    # 项目根目录
 │
 ├── cli_app/
 │   ├── main.py                    # ← CLI 入口点（调用 cli_main）

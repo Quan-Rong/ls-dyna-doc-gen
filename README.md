@@ -110,7 +110,7 @@ python gui_app/main_gui.py
 1. **克隆或下载项目**
    ```bash
    git clone <repository-url>
-   cd ls_dyna_md
+   cd ls-dyna-doc-gen
    ```
 
 2. **安装 GUI 依赖（仅 GUI 程序需要）**
@@ -146,7 +146,7 @@ python gui_app/main_gui.py
 ## 4. 项目结构
 
 ```
-ls_dyna_md/                          # 项目根目录
+ls-dyna-doc-gen/                     # 项目根目录
 │
 ├── 📁 CLI 程序
 │   ├── cli_app/

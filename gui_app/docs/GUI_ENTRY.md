@@ -83,7 +83,7 @@ python gui_app/main_gui.py
 ### 2.2 程序目录结构
 
 ```
-ls_dyna_md/                        # 项目根目录
+ls-dyna-doc-gen/                    # 项目根目录
 │
 ├── gui_app/                       # ← GUI 程序目录
 │   ├── __init__.py
