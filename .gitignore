@@ -1,0 +1,16 @@
+# 忽略大型数据和缓存
+Input/
+Output/
+__pycache__/
+*.key
+*.k
+*.log
+.DS_Store
+
+# 忽略临时文件
+*.tmp
+*.bak
+
+# 忽略 Python 虚拟环境
+venv/
+.env
