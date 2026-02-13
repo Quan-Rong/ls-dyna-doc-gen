@@ -1,5 +1,5 @@
 __version__ = "1.1.0"
-__author__ = "Antigravity Agent"
+__author__ = "Quan"
 __description__ = "LS-Dyna Documentation Generator"
 
 from .parser import LSDynaParser
